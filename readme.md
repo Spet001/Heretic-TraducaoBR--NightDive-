@@ -3,7 +3,7 @@
 Aplicativo simples em Python + Tkinter para substituir automaticamente o arquivo `Heretic.wad` original por uma versão traduzida, com backup automático.
 
 
-![DEMO](./image/erdemo.png)
+![DEMO](./Image/erdemo.png)
 ---
 
 ## ⚙️ Funcionalidades
